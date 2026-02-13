@@ -1,42 +1,21 @@
-# yo, i'm hari 👋
+# hari
 
-security engineer building AI stuff. breaking things at **fintech**, making things at **[owly](https://promo.owly.studio)**.
+security engineer, building [owly](https://app.owly.studio) — ai-generated marketing videos at scale.
 
-[![Twitter](https://img.shields.io/badge/-@harikp2002-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/harikp2002)
-[![LinkedIn](https://img.shields.io/badge/-harikrishna--kp-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishna-kp-981356212/)
-[![Email](https://img.shields.io/badge/-harikp2002@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:harikp2002@gmail.com)
+into math, multimodal ai, and figuring out how things break.
 
 ---
 
-### what i do
+### open source
 
-- 🔐 appsec & threat modeling
-- 🤖 ai/ml security
-- 🛠️ building ai agents
-- 💥 breaking & fixing things
+30 merged PRs across [transformers](https://github.com/huggingface/transformers), [ultralytics](https://github.com/ultralytics/ultralytics), [DeepSpeed](https://github.com/deepspeedai/DeepSpeed), [whisperX](https://github.com/m-bain/whisperX), [pydantic-ai](https://github.com/pydantic/pydantic-ai), [NVIDIA TransformerEngine](https://github.com/NVIDIA/TransformerEngine), [livekit/agents](https://github.com/livekit/agents), [browser-use](https://github.com/browser-use/browser-use), [lmdeploy](https://github.com/InternLM/lmdeploy), [open_clip](https://github.com/mlfoundations/open_clip), [speechbrain](https://github.com/speechbrain/speechbrain), [langchain](https://github.com/langchain-ai/langchain), [k-diffusion](https://github.com/crowsonkb/k-diffusion), and others.
 
-### tools i use
+security advisories in [ComfyUI](https://github.com/comfyanonymous/ComfyUI/issues/12286) (RCE, CVSS 9.0) and [Haystack](https://github.com/deepset-ai/haystack/issues/10513) (SSRF).
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+### building
 
-### some things i've built
+[owly](https://app.owly.studio) · [pixelforge](https://pixelforge.harikp.com) · [makeacard](https://make-a-card.harikp.com) · [booklist](https://booklist.harikp.com) · [journal](https://journal.harikp.com)
 
-| project | what it does |
-|---------|--------------|
-| **[owly](https://promo.owly.studio)** | ai platform generating marketing videos at scale |
-| **llm security gateway** | privacy middleware protecting llms from pii exposure |
-| **trivy mcp** | integrating trivy with ai assistants via mcp |
-| **soc ai agent** | automated threat triage with virustotal & abuseipdb |
-| **deepfake detection** | vision transformer with 95% accuracy on faceforensics++ |
+### links
 
-### stats
-
-- 🛡️ **75+** security incidents handled
-- 🐛 **150+** bugs triaged on hackerone
-
----
-
-<sub>iit madras → security → ai • let's build something cool</sub>
+[harikp.com](https://harikp.com) · [twitter](https://x.com/harikp2002) · [linkedin](https://www.linkedin.com/in/harikrishna-kp-981356212/) · [email](mailto:harikp2002@gmail.com)
